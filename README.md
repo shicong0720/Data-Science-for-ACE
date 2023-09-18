@@ -10,3 +10,5 @@ Real-world Relevance: By focusing on optimizing building performance and enhanci
 Data-Driven Decisions: With the inclusion of datasets like meter data and weather data, it's evident that the repository emphasizes making data-driven decisions to achieve the desired outcomes.
 
 Methods used: K-Means Clustering, K-Neighbor Regression, Random Forest Classification
+
+![imgonline-com-ua-twotoone-J7hfUuipfoTI3P](https://github.com/shicongcao/Data-Science-for-Construction-Architecture-and-Engineering/assets/17108049/44754087-910a-4ee2-8853-ac6881360831)
